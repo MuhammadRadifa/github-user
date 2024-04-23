@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="username">muhammadradifa</string>
+    <string name="searchbar_hint">Search Username</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Muhammad Radifa</string>
+    <string name="description">Informatics Student, Still Learn English</string>
+    <string name="tab_text_1">Follower %1$s</string>
+    <string name="tab_text_2">Following %1$s</string>
+    <string name="empty_list">User Not Found</string>
+    <string name="profile_user">profile user</string>
+    <string name="dark_mode">dark mode</string>
+    <string name="light_mode">light mode</string>
+    <string name="favorite_page">favorite page</string>
+</resources>

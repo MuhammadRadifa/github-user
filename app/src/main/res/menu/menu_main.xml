@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/favorite_page"
+        android:icon="@drawable/baseline_favorite_24"
+        app:showAsAction="ifRoom"
+        android:title="@string/favorite_page" />
+    <item
+        android:id="@+id/dark_mode"
+        android:icon="@drawable/baseline_dark_mode_24"
+        app:showAsAction="ifRoom"
+        android:title="@string/dark_mode" />
+</menu>
